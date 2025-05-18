@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikhilraj144
+- 👋 Hi, I’m @Nikhil Rajbanshi
 - 👀 I’m interested in full stack python development
 - 🌱 I’m currently learning backend development using python
 - 💞️ I’m looking to collaborate on a full stack web development(django)
